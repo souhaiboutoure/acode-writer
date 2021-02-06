@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm currenty studend at SONATEL ACADEMY
+- 🔭 I’m currently working on Nodejs + Express.
+
+## Contact me on 
+[<img align="left" alt="linkedin icon" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="twiter icon" width="50px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter]
+
+
+[twitter]: https://twitter.com/__codewriter__
+[linkedin]: https://www.linkedin.com/in/souhaibou-toure-bb65141a3/
