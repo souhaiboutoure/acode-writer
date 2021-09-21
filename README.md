@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="twiter icon" width="50px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter]
 
 
-[twitter]: https://twitter.com/__codewriter__
+[twitter]: https://twitter.com/_codewriter_
 [linkedin]: https://www.linkedin.com/in/souhaibou-toure-bb65141a3/
